@@ -19,6 +19,6 @@ echo  "Using file $fname"
 echo "This is the regular wc command"
 wc $fname
 echo ""
-echo "This is the haskell verion"
+echo "This is the haskell version"
 ./wch $fname
 
